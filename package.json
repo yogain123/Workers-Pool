@@ -13,6 +13,7 @@
   "author": "yogendra saxena",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^12.7.7",
     "workerpool": "^5.0.0"
   },
   "repository": {
