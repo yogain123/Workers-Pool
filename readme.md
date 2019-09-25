@@ -27,4 +27,4 @@ A worker executes one task at a time, and once finished, picks a new task from t
 
 In the above example there is a function heavyTask, which is offloaded dynamically to a worker to be executed for a given set of arguments.
 
-This is how you can handle CPU extensive Task by offloading that work to the worker thread.
+This is how you can handle CPU Intensive Task by offloading that work to the worker thread.
