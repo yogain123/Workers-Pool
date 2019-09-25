@@ -14,5 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "workerpool": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yogain123/Workers-Pool"
   }
 }
